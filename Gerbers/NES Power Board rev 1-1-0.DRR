@@ -1,0 +1,31 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Power PCB.PcbDoc   9/12/2017  7:23:36 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Copper to Bottom Copper
+ASCII RoundHoles File : NES Power Board rev 1-1-0.TXT
+EIA File   : NES Power Board rev 1-1-0.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T2      20mil (0.508mm)                                           Round             5         PTH        1.58inch (40.25mm)
+T3      28mil (0.701mm)                                           Round             15        PTH        1.00inch (25.51mm)
+T4      32mil (0.8mm)                                             Round             4         PTH        1.46inch (37.17mm)
+T5      35mil (0.899mm)                                           Round             15        PTH        3.19inch (81.07mm)
+T6      39mil (1.001mm)                                           Round             3         PTH        0.20inch (5.08mm)
+T7      71mil (1.801mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T8      87mil (2.2mm)                                             Round             2         PTH        0.52inch (13.20mm)
+T9      91mil (2.301mm)                                           Round             3         PTH        2.48inch (63.03mm)
+T10     118mil (3mm)                                              Round             1         PTH        0.00inch (0.00mm)
+T11     134mil (3.401mm)                                          Round             3         PTH        2.73inch (69.25mm)
+T12     138mil (3.5mm)                                            Round             1         PTH        0.00inch (0.00mm)
+T13     35mil (0.899mm)                                           Round             19        NPTH       3.18inch (80.77mm)
+T14     71mil (1.801mm)                                           Round             5         NPTH       0.63inch (16.00mm)
+T15     102mil (2.601mm)                                          Round             6         NPTH       3.34inch (84.73mm)
+T16     110mil (2.799mm)                                          Round             1         NPTH       0.00inch (0.00mm)
+T17     138mil (3.5mm)                                            Round             2         NPTH       3.33inch (84.59mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              87
+
+Total Processing Time (hh:mm:ss) : 00:00:00

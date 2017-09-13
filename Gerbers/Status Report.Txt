@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Power PCB.PcbDoc]
+   Generated File[NES Power Board rev 1-1-0.TXT]
+   Generated File[NES Power Board rev 1-1-0.DRL]
+   Generated File[NES Power Board rev 1-1-0.LDP]
+   Generated File[NES Power Board rev 1-1-0.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 7:23:36 PM On 9/12/2017
