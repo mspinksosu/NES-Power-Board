@@ -1,7 +1,0 @@
-DRC Rules Export File for PCB: C:\Users\maspin\Documents\GitHub\NES-Power-Board\Source\Power PCB.PcbDoc
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=MinimumAnnularRing|RuleName=Via|Scope=Board|Minimum=5.00
-RuleKind=MinimumAnnularRing|RuleName=Through Hole|Scope=Board|Minimum=7.00

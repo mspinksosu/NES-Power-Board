@@ -2,7 +2,7 @@ Project: NES Power PCB
 
 Engineer: Matthew Spinks
 Work Phone:
-Evening Phone:
+Evening Phone: mspinksosu@gmail.com
 
 Address:
 
@@ -14,8 +14,8 @@ Format = 2:4
 Filetype = 274X
 
 Dimensions:
-X = 2.738"
-Y = 2.866"
+X = 2.807"
+Y = 2.865"
 
 Layer Count = 2
 Thickness = 0.062"
