@@ -12,4 +12,14 @@ I plan to support:
 The first two options require no modification to the chassis. All other versions will require some chassis modification, but it will minimal.
 
 This PCB is designed specifically with Tim Worthington's NESRGB board in mind. The channel select switch will have a breakout so that it can be used as a palette selector switch.
-
+***
+# To-Do List for Rev 3
+- [ ] Check all through holes before sending to board house!
+- [ ] Change routing of RGB traces and audio traces completely
+- [ ] Separate video signals from audio signals to help avoid the static issue with the noise channel (may try 4 layer)
+- [ ] Fix mounting hole location (may need to move J2)
+- [ ] C4 and C6 collide with heatsink of U1
+- [ ] Move components to bottom (working from the top is more difficult after installed)
+- [ ] Add extra surface mount ribbon connector, 1.27 mm pitch
+- [ ] Test composite output (use transistor bandwidth is sufficient)
+- [ ] Band pass filter?
