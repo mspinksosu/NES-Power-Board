@@ -21,5 +21,5 @@ This PCB is designed specifically with Tim Worthington's NESRGB board in mind. T
 - [ ] C4 and C6 collide with heatsink of U1
 - [ ] Move components to bottom (working from the top is more difficult after installed)
 - [ ] Add extra surface mount ribbon connector, 1.27 mm pitch
-- [ ] Test composite output (use transistor bandwidth is sufficient)
+- [ ] Test composite output (check if transistor bandwidth is sufficient)
 - [ ] Band pass filter?
