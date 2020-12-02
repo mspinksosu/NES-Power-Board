@@ -14,7 +14,7 @@ The first two options require no modification to the chassis. All other versions
 This PCB is designed specifically with Tim Worthington's NESRGB board in mind. The channel select switch will have a breakout so that it can be used as a palette selector switch.
 ***
 # To-Do List for Rev 3
-- [ ] Flip ribbon connector. It will make the ribbon lay flatter
+- [x] Flip ribbon connector. It will make the ribbon lay flatter (already did this for rev 2 doh!)
 - [ ] Check all through holes before sending to board house!
 - [ ] Change routing of RGB traces and audio traces completely
 - [ ] Separate video signals from audio signals to help avoid the static issue with the noise channel (may try 4 layer)
