@@ -15,12 +15,12 @@ This PCB is designed specifically with Tim Worthington's NESRGB board in mind. T
 ***
 # To-Do List for Rev 3
 - [x] Flip ribbon connector. It will make the ribbon lay flatter (already did this for rev 2 doh!)
-- [ ] Check all through holes before sending to board house!
-- [ ] Change routing of RGB traces and audio traces completely
-- [ ] Separate video signals from audio signals to help avoid the static issue with the noise channel (may try 4 layer)
+- [x] Check all through holes before sending to board house!
+- [x] Change routing of RGB traces and audio traces completely
+- [x] Separate video signals from audio signals to help avoid the static issue with the noise channel (may try 4 layer)
 - [ ] Fix mounting hole location (may need to move J2)
-- [ ] C4 and C6 collide with heatsink of U1
-- [ ] Move components to bottom (working from the top is more difficult after installed)
-- [ ] Add extra surface mount ribbon connector, 1.27 mm pitch
+- [x] C4 and C6 collide with heatsink of U1
+- [x] Move components to bottom (working from the top is more difficult after installed)
+- [x] Add extra surface mount ribbon connector, 1.27 mm pitch
 - [ ] Test composite output (check if transistor bandwidth is sufficient)
 - [ ] Band pass filter?
